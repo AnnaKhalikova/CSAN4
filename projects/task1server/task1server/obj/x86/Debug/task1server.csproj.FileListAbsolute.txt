@@ -1,0 +1,10 @@
+D:\hehe\projects\task1server\task1server\bin\Debug\task1server.exe
+D:\hehe\projects\task1server\task1server\bin\Debug\task1server.pdb
+D:\hehe\projects\task1server\task1server\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hehe\projects\task1server\task1server\obj\x86\Debug\task1server.exe
+D:\hehe\projects\task1server\task1server\obj\x86\Debug\task1server.pdb
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task1server\task1server\bin\Debug\task1server.exe
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task1server\task1server\bin\Debug\task1server.pdb
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task1server\task1server\obj\x86\Debug\task1server.csproj.CoreCompileInputs.cache
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task1server\task1server\obj\x86\Debug\task1server.exe
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task1server\task1server\obj\x86\Debug\task1server.pdb

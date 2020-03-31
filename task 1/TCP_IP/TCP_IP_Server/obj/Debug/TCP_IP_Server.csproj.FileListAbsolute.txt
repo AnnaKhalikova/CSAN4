@@ -1,0 +1,57 @@
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe.config
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.pdb
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.exe
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.pdb
+D:\Total\Share1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe.config
+D:\Total\Share1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe
+D:\Total\Share1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.pdb
+D:\Total\Share1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.csprojResolveAssemblyReference.cache
+D:\Total\Share1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.exe
+D:\Total\Share1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.pdb
+D:\БНТУ\2 курс\Комп сети\laba6\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe.config
+D:\БНТУ\2 курс\Комп сети\laba6\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe
+D:\БНТУ\2 курс\Комп сети\laba6\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.pdb
+D:\БНТУ\2 курс\Комп сети\laba6\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.csprojResolveAssemblyReference.cache
+D:\БНТУ\2 курс\Комп сети\laba6\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.exe
+D:\БНТУ\2 курс\Комп сети\laba6\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.pdb
+D:\БНТУ\2 курс\Комп сети\laba6\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe.config
+D:\БНТУ\2 курс\Комп сети\laba6\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe
+D:\БНТУ\2 курс\Комп сети\laba6\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.pdb
+D:\БНТУ\2 курс\Комп сети\laba6\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.csprojResolveAssemblyReference.cache
+D:\БНТУ\2 курс\Комп сети\laba6\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.exe
+D:\БНТУ\2 курс\Комп сети\laba6\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.pdb
+D:\Учеба\2 kurs\Комп сети\laba6\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe.config
+D:\Учеба\2 kurs\Комп сети\laba6\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.exe
+D:\Учеба\2 kurs\Комп сети\laba6\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.pdb
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe.config
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.exe
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.pdb
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.pdb
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\mscorlib.dll
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\ru\mscorlib.resources.dll
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\normidna.nlp
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\normnfc.nlp
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\normnfd.nlp
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\normnfkc.nlp
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\normnfkd.nlp
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.csprojResolveAssemblyReference.cache
+D:\Загрузки\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe.config
+D:\Загрузки\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.exe
+D:\Загрузки\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.pdb
+D:\Загрузки\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe
+D:\Загрузки\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.pdb
+D:\Загрузки\Lab5\lab5\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.csprojResolveAssemblyReference.cache
+D:\учёба\2 курс\Компьютерные сети\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe.config
+D:\учёба\2 курс\Компьютерные сети\lab5\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.exe
+D:\учёба\2 курс\Компьютерные сети\lab5\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.pdb
+D:\учёба\2 курс\Компьютерные сети\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe
+D:\учёба\2 курс\Компьютерные сети\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.pdb
+D:\учёба\2 курс\Компьютерные сети\lab5\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.csprojResolveAssemblyReference.cache
+C:\Users\aikha\Downloads\ксис\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe.config
+C:\Users\aikha\Downloads\ксис\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.exe
+C:\Users\aikha\Downloads\ксис\lab5\task 1\TCP_IP\TCP_IP_Server\bin\Debug\TCP_IP_Server.pdb
+C:\Users\aikha\Downloads\ксис\lab5\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.csprojAssemblyReference.cache
+C:\Users\aikha\Downloads\ксис\lab5\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.exe
+C:\Users\aikha\Downloads\ксис\lab5\task 1\TCP_IP\TCP_IP_Server\obj\Debug\TCP_IP_Server.pdb

@@ -1,0 +1,11 @@
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\Новая папка\Client\Client\bin\Debug\Client.exe.config
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\Новая папка\Client\Client\bin\Debug\Client.exe
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\Новая папка\Client\Client\bin\Debug\Client.pdb
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\Новая папка\Client\Client\obj\Debug\Client.exe
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\Новая папка\Client\Client\obj\Debug\Client.pdb
+F:\Lab5\lab5\Новая папка\Client\Client\bin\Debug\Client.exe.config
+F:\Lab5\lab5\Новая папка\Client\Client\obj\Debug\Client.exe
+F:\Lab5\lab5\Новая папка\Client\Client\obj\Debug\Client.pdb
+F:\Lab5\lab5\Новая папка\Client\Client\bin\Debug\Client.exe
+F:\Lab5\lab5\Новая папка\Client\Client\bin\Debug\Client.pdb
+F:\Lab5\lab5\Новая папка\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

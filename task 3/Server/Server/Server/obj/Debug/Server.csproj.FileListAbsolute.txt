@@ -1,0 +1,18 @@
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 3\Server\Server\Server\bin\Debug\Server.exe.config
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 3\Server\Server\Server\bin\Debug\Server.exe
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 3\Server\Server\Server\bin\Debug\Server.pdb
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 3\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 3\Server\Server\Server\obj\Debug\Server.exe
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 3\Server\Server\Server\obj\Debug\Server.pdb
+D:\учёба\2 курс\Компьютерные сети\lab5\task 3\Server\Server\Server\bin\Debug\Server.exe.config
+D:\учёба\2 курс\Компьютерные сети\lab5\task 3\Server\Server\Server\obj\Debug\Server.exe
+D:\учёба\2 курс\Компьютерные сети\lab5\task 3\Server\Server\Server\obj\Debug\Server.pdb
+D:\учёба\2 курс\Компьютерные сети\lab5\task 3\Server\Server\Server\bin\Debug\Server.exe
+D:\учёба\2 курс\Компьютерные сети\lab5\task 3\Server\Server\Server\bin\Debug\Server.pdb
+D:\учёба\2 курс\Компьютерные сети\lab5\task 3\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Server\Server\Server\obj\Debug\Server.pdb

@@ -1,0 +1,10 @@
+D:\hehe\projects\task1client\task1client\bin\Debug\task1client.exe
+D:\hehe\projects\task1client\task1client\bin\Debug\task1client.pdb
+D:\hehe\projects\task1client\task1client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hehe\projects\task1client\task1client\obj\x86\Debug\task1client.exe
+D:\hehe\projects\task1client\task1client\obj\x86\Debug\task1client.pdb
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task1client\task1client\bin\Debug\task1client.exe
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task1client\task1client\bin\Debug\task1client.pdb
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task1client\task1client\obj\x86\Debug\task1client.csproj.CoreCompileInputs.cache
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task1client\task1client\obj\x86\Debug\task1client.exe
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task1client\task1client\obj\x86\Debug\task1client.pdb

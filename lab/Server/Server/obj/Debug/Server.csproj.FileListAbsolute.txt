@@ -1,0 +1,12 @@
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\Новая папка\Server\Server\bin\Debug\Server.exe.config
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\Новая папка\Server\Server\bin\Debug\Server.exe
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\Новая папка\Server\Server\bin\Debug\Server.pdb
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\Новая папка\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\Новая папка\Server\Server\obj\Debug\Server.exe
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\Новая папка\Server\Server\obj\Debug\Server.pdb
+F:\Lab5\lab5\Новая папка\Server\Server\bin\Debug\Server.exe.config
+F:\Lab5\lab5\Новая папка\Server\Server\obj\Debug\Server.exe
+F:\Lab5\lab5\Новая папка\Server\Server\obj\Debug\Server.pdb
+F:\Lab5\lab5\Новая папка\Server\Server\bin\Debug\Server.exe
+F:\Lab5\lab5\Новая папка\Server\Server\bin\Debug\Server.pdb
+F:\Lab5\lab5\Новая папка\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

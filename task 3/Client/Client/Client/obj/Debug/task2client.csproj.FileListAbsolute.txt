@@ -1,0 +1,5 @@
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Client\Client\Client\bin\Debug\Client.exe.config
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Client\Client\Client\bin\Debug\Client.exe
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Client\Client\Client\bin\Debug\Client.pdb
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Client\Client\Client\obj\Debug\Client.exe
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Client\Client\Client\obj\Debug\Client.pdb

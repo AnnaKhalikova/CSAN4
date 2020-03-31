@@ -1,0 +1,5 @@
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Server\Server\Server\obj\Debug\Server.pdb

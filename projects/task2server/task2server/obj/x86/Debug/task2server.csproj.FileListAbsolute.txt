@@ -1,0 +1,11 @@
+D:\hehe\projects\task2server\task2server\bin\Debug\task2server.exe
+D:\hehe\projects\task2server\task2server\bin\Debug\task2server.pdb
+D:\hehe\projects\task2server\task2server\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hehe\projects\task2server\task2server\obj\x86\Debug\task2server.exe
+D:\hehe\projects\task2server\task2server\obj\x86\Debug\task2server.pdb
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task2server\task2server\bin\Debug\task2server.exe
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task2server\task2server\bin\Debug\task2server.pdb
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task2server\task2server\obj\x86\Debug\task2server.csprojAssemblyReference.cache
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task2server\task2server\obj\x86\Debug\task2server.csproj.CoreCompileInputs.cache
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task2server\task2server\obj\x86\Debug\task2server.exe
+D:\BNTU\KSIS\Lab5KSIS\hehe\projects\task2server\task2server\obj\x86\Debug\task2server.pdb

@@ -1,0 +1,18 @@
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 3\Client\Client\Client\bin\Debug\Client.exe.config
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 3\Client\Client\Client\bin\Debug\Client.exe
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 3\Client\Client\Client\bin\Debug\Client.pdb
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 3\Client\Client\Client\obj\Debug\Client.exe
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 3\Client\Client\Client\obj\Debug\Client.pdb
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 3\Client\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\учёба\2 курс\Компьютерные сети\lab5\task 3\Client\Client\Client\bin\Debug\Client.exe.config
+D:\учёба\2 курс\Компьютерные сети\lab5\task 3\Client\Client\Client\obj\Debug\Client.exe
+D:\учёба\2 курс\Компьютерные сети\lab5\task 3\Client\Client\Client\obj\Debug\Client.pdb
+D:\учёба\2 курс\Компьютерные сети\lab5\task 3\Client\Client\Client\bin\Debug\Client.exe
+D:\учёба\2 курс\Компьютерные сети\lab5\task 3\Client\Client\Client\bin\Debug\Client.pdb
+D:\учёба\2 курс\Компьютерные сети\lab5\task 3\Client\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Client\Client\Client\bin\Debug\Client.exe.config
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Client\Client\Client\bin\Debug\Client.exe
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Client\Client\Client\bin\Debug\Client.pdb
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Client\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Client\Client\Client\obj\Debug\Client.exe
+C:\Users\aikha\Downloads\ксис\lab5\task 3\Client\Client\Client\obj\Debug\Client.pdb

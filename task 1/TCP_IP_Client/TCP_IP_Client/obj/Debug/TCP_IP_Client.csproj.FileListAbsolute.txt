@@ -1,0 +1,44 @@
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe.config
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.pdb
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.exe
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.pdb
+D:\Total\Share1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe.config
+D:\Total\Share1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe
+D:\Total\Share1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.pdb
+D:\Total\Share1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.csprojResolveAssemblyReference.cache
+D:\Total\Share1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.exe
+D:\Total\Share1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.pdb
+D:\БНТУ\2 курс\Комп сети\laba6\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe.config
+D:\БНТУ\2 курс\Комп сети\laba6\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe
+D:\БНТУ\2 курс\Комп сети\laba6\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.pdb
+D:\БНТУ\2 курс\Комп сети\laba6\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.csprojResolveAssemblyReference.cache
+D:\БНТУ\2 курс\Комп сети\laba6\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.exe
+D:\БНТУ\2 курс\Комп сети\laba6\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.pdb
+D:\БНТУ\2 курс\Комп сети\laba6\task 1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe.config
+D:\БНТУ\2 курс\Комп сети\laba6\task 1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe
+D:\БНТУ\2 курс\Комп сети\laba6\task 1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.pdb
+D:\БНТУ\2 курс\Комп сети\laba6\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.csprojResolveAssemblyReference.cache
+D:\БНТУ\2 курс\Комп сети\laba6\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.exe
+D:\БНТУ\2 курс\Комп сети\laba6\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.pdb
+D:\Учеба\2 kurs\Комп сети\laba6\task 1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe.config
+D:\Учеба\2 kurs\Комп сети\laba6\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.exe
+D:\Учеба\2 kurs\Комп сети\laba6\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.pdb
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe.config
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.exe
+D:\Учеба\Semestr\КСиС\Лабораторные работы\Lab5\lab5\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.pdb
+D:\Загрузки\Lab5\lab5\task 1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe.config
+D:\Загрузки\Lab5\lab5\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.exe
+D:\Загрузки\Lab5\lab5\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.pdb
+D:\Загрузки\Lab5\lab5\task 1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe
+D:\Загрузки\Lab5\lab5\task 1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.pdb
+D:\Загрузки\Lab5\lab5\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.csprojResolveAssemblyReference.cache
+D:\учёба\2 курс\Компьютерные сети\lab5\task 1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe.config
+D:\учёба\2 курс\Компьютерные сети\lab5\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.exe
+D:\учёба\2 курс\Компьютерные сети\lab5\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.pdb
+C:\Users\aikha\Downloads\ксис\lab5\task 1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe.config
+C:\Users\aikha\Downloads\ксис\lab5\task 1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.exe
+C:\Users\aikha\Downloads\ксис\lab5\task 1\TCP_IP_Client\TCP_IP_Client\bin\Debug\TCP_IP_Client.pdb
+C:\Users\aikha\Downloads\ксис\lab5\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.csprojAssemblyReference.cache
+C:\Users\aikha\Downloads\ксис\lab5\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.exe
+C:\Users\aikha\Downloads\ксис\lab5\task 1\TCP_IP_Client\TCP_IP_Client\obj\Debug\TCP_IP_Client.pdb

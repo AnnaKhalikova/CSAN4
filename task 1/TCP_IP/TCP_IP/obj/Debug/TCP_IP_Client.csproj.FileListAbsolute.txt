@@ -1,0 +1,6 @@
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP\TCP_IP\bin\Debug\TCP_IP.exe.config
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP\TCP_IP\bin\Debug\TCP_IP.exe
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP\TCP_IP\bin\Debug\TCP_IP.pdb
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP\TCP_IP\obj\Debug\TCP_IP_Client.csprojResolveAssemblyReference.cache
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP\TCP_IP\obj\Debug\TCP_IP.exe
+D:\The_second_course\FouthTerm\ComputerSystemAndNets\TCP_IP\TCP_IP\obj\Debug\TCP_IP.pdb
